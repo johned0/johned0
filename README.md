@@ -3,7 +3,7 @@
 ### Experience
 
  - 40+ years DSP experience
- - 32+ years lecturing at the University of Oxford
+ - 32+ years lecturing in DSP at the University of Oxford Department of Continuing Education
  - Author of the SigLib DSP Library: https://github.com/Numerix-DSP/siglib
  - Consultant and provider of DSP training courses to industry
 
