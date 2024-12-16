@@ -1,4 +1,4 @@
-## Digital Signal Processing and Machine Learning Geek 👋
+## Digital Signal Processing and Machine Learning Geek
 
 ### Experience
 
