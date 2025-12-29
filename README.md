@@ -7,6 +7,7 @@
  - Author of the SigLib DSP Library: https://github.com/Numerix-DSP/siglib
  - Consultant and provider of DSP and AI/ML training courses to industry: https://www.numerix-dsp.com
  - My DSP and ML related blog: https://blog.numerix-dsp.com
+ - My CV: https://github.com/johned0/johned0/JohnEdwardsCV-Online_Modern.pdf
 
 ### Interests
 
